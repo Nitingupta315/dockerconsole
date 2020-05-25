@@ -42,7 +42,7 @@ Step 5:-Enter your desired option and get the output .
 
 Environment required:-
 
-We must have any linux installed with python but I recommand redhat linux because it has pre installed linux.
+We must have any linux installed with python but I recommand redhat linux because it has pre installed python.
 This link given below will help you to download redhat linux
 
 (https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/try-it?intcmp=701f20000012m1qAAA)
